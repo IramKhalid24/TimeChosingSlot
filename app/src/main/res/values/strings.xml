@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Time Chosing Slot</string>
+    <string name="available_schedule_time">Available Scheduled Time</string>
+    <string name="today">Today</string>
+    <string name="within_2_hours">Within 2 hours</string>
+    <string name="_5">5 $</string>
+    <string name="within_5_hours">Within 5 hours</string>
+    <string name="tomarrow">Tomarrow</string>
+    <string name="_2">2 $</string>
+    <string name="calculate_grand_total">Calculate Grand Total</string>
+    <string name="free">Free</string>
+    <string name="after_12_pm">After 12 PM</string>
+    <string name="_1">1 $</string>
+    <string name="_10_am_12_pm">10 AM - 12 PM</string>
+
+    <string name="_8_am_10_am">8 AM -10 AM</string>
+</resources>
